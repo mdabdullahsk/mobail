@@ -1,32 +1,12 @@
 [
   {
-    "name": "টি-স্পোর্টস লাইভ (T-Sports)",
+    "name": "T Sports m3u8",
     "url": "http://198.195.239.50:8095/tsports/index.m3u8",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/tsports.png"
-  },
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png"
+  },  
   {
-    "name": "লাইভ টিভি স্ট্রিম (RGKKW)",
+    "name": "T Sports ts",
     "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/rgkkw.png"
-  },
-  {
-    "name": "Zee Bangla",
-    "url": "http://198.195.239.50:8095/tsports/index.m3u8",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/zeebangla.png"
-  },
-  {
-    "name": "Star Jalsha HD",
-    "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/starjalsha.png"
-  },
-  {
-    "name": "Jalsha Movies HD",
-    "url": "http://198.195.239.50:8095/tsports/index.m3u8",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/jalshamovies.png"
-  },
-  {
-    "name": "BTV Chattogram",
-    "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts",
-    "logo": "https://raw.githubusercontent.com/aboxbdix/iptv-assets/main/btv.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png"
   }
 ]
