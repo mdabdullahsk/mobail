@@ -1,8 +1,38 @@
 [
   {
-    "name": "FIFA",
-    "url": "http://84.17.50.102/fox/index.m3u8",
-    "logo": ""
+    "name": "Ananda TV 1",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Ananda_TV.svg"
+  },
+  {
+    "name": "Asian TV 2",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg"
+  },
+  {
+    "name": "ATN Bangla 3",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/ATN_Bangla.svg"
+  },
+  {
+    "name": "ATN Bangla UK 4",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/5kkuqfLE8ukxWVOkObzhiVO37shyj_DnuQL4qZEAKd4qaMhBF36H4mxs4ivLtvTF7nc"
+  },
+  {
+    "name": "ATN News 5",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/250px-ATN_News_logo.svg.png?_=20250123005257"
+  },
+  {
+    "name": "Ayna TV 6",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv/AynaTV.jpg"
+  },
+  {
+    "name": "Azan TV Canada 7",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/292307530_442636967871724_2428904031870566381_n.png?stp=dst-png&cstp=mx1398x583&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=y4l9B7vVGusQ7kNvwGSsy_3&_nc_oc=Adoe21nq-Y82J7xun7i3vEyHf3RwP-nKOmuMlz5Hpgc324GTmFE3XUEIXF7pn7U0PvI&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=Xk0_5Gcax48fmwHKQJYAcQ&_nc_ss=7b289&oh=00_Af_IK49AALa6iM9cybOZkRdNzTWzSraM2Svf7PIOU1J0_A&oe=6A35A5B9"
   },
   {
     "name": "Zee Bangla",
@@ -10,343 +40,218 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png"
   },
   {
-    "name": "Star Jalsha HD",
+    "name": "Star Jalsha",
     "url": "https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
   },
-  {
-    "name": "Jalsha Movies HD",
+ {
+    "name": "Jalsha movies",
     "url": "http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/bn/7/70/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
   },
   {
-    "name": "BTV Chattogram",
-    "url": "https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Movie Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Banglavision",
+    "name": "Banglavision 8",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8",
-    "logo": ""
-  },
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/thumb/e/e0/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/500px-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+  },  
   {
-    "name": "RTV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Jamuna",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "ATN Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "NTV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Al Jazeera",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/aljazeera.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ananda TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Asian TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "ATN Bangla UK",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "ATN News",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ayna TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Azan TV Canada",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Boishakhi TV",
+    "name": "Boishakhi TV 9",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png"
   },
   {
-    "name": "Channel 1",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Channel 24",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Channel 9",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Channel S BD",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Channel S UK",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Channeli",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "DBC News",
-    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Deen TV UK",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deentv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Desh TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Deshebideshe TV Canada",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Deshi TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "DW News",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dwnews.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ekattor TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ekhon TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ekushey TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "EP TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Galaxy TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Gazi Television GTV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Global TV Bangladesh",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Green TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Iqra Bangla TV UK",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Islam Ch Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Jago News 24",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Madani Ch Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madanitvbangla.stream1/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Makkah Live",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Makkah TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Medina Live",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Mohona TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "MY TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "News24 TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Nexus TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Peace TV Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "SA TV",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "A Sports",
-    "url": "https://tvsen6.aynaott.com/asports/index.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "T Sports",
-    "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png"
-  },
-  {
-    "name": "Star Spts 1",
-    "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Star Sports 2",
-    "url": "http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Sony Sports Ten 1",
-    "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Sony Sports Ten 2",
-    "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Sony Sports Ten 5",
-    "url": "https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ten Cricket HD",
-    "url": "https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "REAL MADRID",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Ptv sports",
-    "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Fox Sports 2",
-    "url": "https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "FIFA",
-    "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "FIFA+",
-    "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "Bein Sports 2",
-    "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "BTV",
+    "name": "BTV 10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/960px-Bangladesh_Television_Logo.svg.png"
   },
   {
-    "name": "somoytv",
+    "name": "BTV Chattogram 11",
+    "url": "https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/960px-BTV_Chattogram_Logo.svg.png"
+  },
+  {
+    "name": "Channel 1 12",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png"
+  },
+  {
+    "name": "Channel 24 13",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/960px-Logo_of_Channel_24_%28Bangladesh%29.svg.png"
+  },
+  {
+    "name": "Channel 9 14",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png?_=20140315163348"
+  },
+  {
+    "name": "Channel S BD 15",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Channel_S_Bangladesh_Logo.png"
+  },
+  {
+    "name": "Channel S UK 16",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/960px-Channel_S_Logo.SVG.png"
+  },
+  {
+    "name": "Channel i 17",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png"
+  },
+  {
+    "name": "DBC News 18",
+    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1280px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+  },
+  {
+    "name": "Deen TV UK 19",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deentv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/359163891_662660305888234_4516769943168214752_n.png?stp=dst-png&cstp=mx1246x1132&ctp=s1246x1132&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tj5GJxXdMPAQ7kNvwErn9YI&_nc_oc=Adq0E5mHjuM_y-o5gsSn7pb7Jkpp70KVDIBOqwFi1gIOKUVVPC8EIsiZMLhMXN58ejM&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=Fv7_2esC2ZZtuu20P-bG4w&_nc_ss=7b289&oh=00_Af_p0j6AeuYmar5N14jhdbyJ17tosx2k5-oAbzJMi0LblQ&oe=6A35A3BB"
+  },
+  {
+    "name": "Desh TV 20",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg"
+  },
+  {
+    "name": "Deshebideshe TV 21",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/607950693_1212319847661119_2682830593833455550_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1152&ctp=s2048x1152&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cE00onfZf2oQ7kNvwEQTkMP&_nc_oc=AdpE6m1SGYqjVt2b54ABnbyfRO_gGanBiM-b9uKjiGNMh6N6Hqr_moGBnFiSVBs2VY0&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=6yCNM6CCw_nu1d8saSdikw&_nc_ss=7b289&oh=00_Af_2wEbTuJMKaGD9wGyN8fNLNL2rq9qnIUmknushGZrloA&oe=6A3593DD"
+  },
+  {
+    "name": "Deshi TV 22",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/277569140_639399233977974_5391644483157095593_n.jpg?stp=dst-jpg_tt6&cstp=mx1939x1939&ctp=s1939x1939&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oQF0Y9DQx8QQ7kNvwEyXqYr&_nc_oc=AdocDKWkbRjM02VsNO5jL_7eaVlbRSBUXfxD65XDE6Bwa03IiQ5n4CSu4T7rcPKV5-Q&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=zKIEeL5AUHoChQt72ScSHg&_nc_ss=7b289&oh=00_Af-MSMEIJ5Rw2t7cSe6lP2l6Q4Tq40JhkWTPRtN40D8uOw&oe=6A358FD0"
+  },
+  {
+    "name": "Ekattor TV 23",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/960px-Ekattor_TV_logo.svg.png"
+  },
+  {
+    "name": "Ekhon TV 24",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png"
+  },
+  {
+    "name": "Ekushey TV 25",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/250px-Ekushey_Television_Logo.svg.png?_=20211105182647"
+  },
+  {
+    "name": "EP TV 26",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://eptvbd.com/storage/logo//channel-s-12/channel-s_large.webp"
+  },    
+  {
+    "name": "Galaxy TV 27",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd.png?x71442"
+  },
+  {
+    "name": "GTV 28",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/thumb/c/c5/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1280px-%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+  },
+  {
+    "name": "Global TV 29",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Global_Television_Logo_BD.svg/1280px-Global_Television_Logo_BD.svg.png"
+  },
+  {
+    "name": "Green TV 30",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png"
+  },
+  {
+    "name": "Iqra Bangla TV UK 31",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/487392525_1147365707408058_3356658173181909737_n.jpg?stp=dst-jpg_tt6&cstp=mx821x822&ctp=s821x822&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=5tVI4rAYEBsQ7kNvwE9ZEUs&_nc_oc=AdosdP-1By4X7go0TUGKrhw3WMyzOt0VMa_kCYQ45CfxrNgdvOcHGvXFetPYdpbbHjY&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=PsllrDFjN_Qu7uQO-6W5KA&_nc_ss=7b289&oh=00_Af9CfTZCDcRrjKQl_vytp97iPSJTKNmDKrCVQsZtKVmYuw&oe=6A359DED"
+  },
+  {
+    "name": "Islam Ch Bangla 32",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1565691972626649089/bLMdg7Sc.png"
+  },
+  {
+    "name": "Jago News 24 33",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jago_News_24_Logo.png"
+  },  
+  {
+    "name": "Jamuna 34",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/960px-Jamuna_TV_logo.svg.png"
+  },
+  {
+    "name": "Madani Ch Bangla 35",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madanitvbangla.stream1/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/236854163_205053548305768_8318733558989265064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x730&ctp=s720x730&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LG6iC6QKDegQ7kNvwHsPoBE&_nc_oc=Adp-3EpZplpBXzhjmiTqjv9Z87jJzRZih8VvHC1C5y_wA_11brNlVaGlA_h2XUpvgjg&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=oVMkIZKB4RbVRdKO_p7iKg&_nc_ss=7b289&oh=00_Af-TyFrNqfje0V9o04b-5U3D6wrUlLOaJEZOSDYILk5NYg&oe=6A359B7A"
+  },
+  {
+    "name": "Makkah Live 36",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://and.whiteflix.tv/uploads/tv_image/sm/al-quran-al-kareem-mecca.png"
+  },
+  {
+    "name": "Makkah TV 37",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/jaKKh-RTzpUSJOcLF93KwdFoYNj0dJXSfsuEWMUt-cJSc_wvfGUMg6u_R_bTajehbG6gQ6c1Kmm-Ct4tCvpZ"
+  },
+  {
+    "name": "Medina Live 38",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://live.bdtype.com/upload/tv/Medina%20Live%20TV.png"
+  },
+  {
+    "name": "Mohona TV 39",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/960px-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+  },
+  {
+    "name": "Movie Bangla 40",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png"
+  },
+  {
+    "name": "MY TV 41",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/250px-My_TV_Logo.svg.png?_=20211022082858"
+  },
+  {
+    "name": "News 24 TV 42",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/345063395_204979352303438_9054708988486840464_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xMZLCi-IR4QQ7kNvwGa9Ga_&_nc_oc=AdqW0ONev2QPRKlD9Jhp7Gq9I_yUIrtWRLX6akbJoYE_z8UPmZ7I_nh-ipQMyHzC8f0&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=oJm3Hlk6kfDTP2P7brAFAg&_nc_ss=7b2a8&oh=00_Af9rnAl0IEygwNTL3TJFqpm9XAud88OxK0VTg3VWbiRy0Q&oe=6A35BBB3"
+  },
+  {
+    "name": "Nexus TV 43",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/6/6e/%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%BE%E0%A6%B8_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
+  },
+  {
+    "name": "NTV 44",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/250px-NTV_%28Bangladesh%29_logo.svg.png?_=20260211155141"
+  },
+  {
+    "name": "Peace TV Bangla 45",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png"
+  },   
+  {
+    "name": "RTV 47",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/960px-Rtv_bangladesh.svg.png"
+  },
+  {
+    "name": "SA TV 48",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/250px-SA_TV_Bangladesh_Logo.svg.png?_=20260224151802"
+  },
+  {
+    "name": "somoytv 49",
     "url": "http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
-    "logo": ""
-  },
-  {
-    "name": "Bein Sports 3",
-    "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
-    "logo": ""
-  },
-  {
-    "name": "WILLOW LIVE",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-    "logo": ""
-  }
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/330px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?_=20250102083708"
+  } 
 ]
